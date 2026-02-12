@@ -1,2 +1,2 @@
 # 2400100100182-B1-Python
-This is my first python program.
+This is my first python project based on Django and react.
